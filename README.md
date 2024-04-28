@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 I'm Shivansh, a tech enthusiast and a full stack web developer from India.
 
 - 🧑🏻‍💻 MERN Stack Developer
-- 🧑🏻‍💻 I love coding and building real-world softwares.
-- 🏆 Love solving problems on top competitive programming platforms like LeetCode, Codeforces, CodeChef
+- 🧑🏻‍💻 Love coding and building real-world softwares.
+- 🏆 Enjoy solving problems on top competitive programming platforms like LeetCode, Codeforces, CodeChef
 - 🏆 Won DSA Tussle Codeathon organized by Android Club of VIT Bhopal
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner
 - 🧑🏻‍💻 Microsoft Certified Azure Administrator
