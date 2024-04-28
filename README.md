@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Web+Developer;1600+rated+on+LeetCode;2+star+rated+on+CodeChef;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
 </p>
 	
-## Namaste! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
-I'm Shivansh, a tech enthusiast and a full stack web developer from India.
+## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
+I am Shivansh, a tech enthusiast and a full stack web developer from India.
 
 - 🧑🏻‍💻 MERN Stack Developer
 - 🧑🏻‍💻 Love coding and building real-world softwares.
@@ -30,7 +30,7 @@ I'm Shivansh, a tech enthusiast and a full stack web developer from India.
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner
 - 🧑🏻‍💻 Microsoft Certified Azure Administrator
 - 🧑🏻‍💻 I am currently learning about Machine Learning and Data Science
-  + a lot more ;)
+  <!-- + a lot more ;) -->
 
 ## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="center">
 <p align="center">
@@ -77,8 +77,9 @@ I'm Shivansh, a tech enthusiast and a full stack web developer from India.
   <a href="https://www.instagram.com/shivansh.sri__0403/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<!--
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
+-->
 
 <div align="center">
 	<p>Visitors Count 🥽</p>
