@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 </p>
 	
 ## Namaste! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
-I'm Shivansh, a tech enthusiast and a full stack developer from India.
+I'm Shivansh, a tech enthusiast and a full stack web developer from India.
 
-- 🧑🏻‍💻 Passionate MERN stack developer from India
+- 🧑🏻‍💻 MERN Stack Developer
+- 🧑🏻‍💻 I love coding and building real-world softwares.
 - 🏆 Love solving problems on top competitive programming platforms like LeetCode, Codeforces, CodeChef
+- 🏆 Won DSA Tussle Codeathon organized by Android Club of VIT Bhopal
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner
 - 🧑🏻‍💻 Microsoft Certified Azure Administrator
-- 🏆 Won DSA Tussle Codeathon organized by Android Club of VIT Bhopal
+- 🧑🏻‍💻 I am currently learning about Machine Learning and Data Science
   + a lot more ;)
 
 ## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="center">
