@@ -17,18 +17,17 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Web+Developer;1600+rated+on+LeetCode;2+star+rated+on+CodeChef;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer;1600+rated+on+LeetCode;2+star+rated+on+CodeChef;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
 </p>
 	
 ## Hello! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
-I am Shivansh, a tech enthusiast and a full stack web developer from India.
+I am Shivansh, a tech enthusiast and a full stack developer from India.
 
 - 🧑🏻‍💻 MERN Stack Developer
 - ⚡ Love coding and building real-world softwares.
 - 🔭 Enjoy solving problems on top competitive programming platforms like LeetCode, Codeforces, CodeChef
 - 🏆 Won DSA Tussle Codeathon organized by Android Club of VIT Bhopal
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner
-- 🧑🏻‍💻 Microsoft Certified Azure Administrator
 - 🌱 I am currently learning about Machine Learning and Data Science
   <!-- + a lot more ;) -->
 
@@ -41,9 +40,6 @@ I am Shivansh, a tech enthusiast and a full stack web developer from India.
     <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,bootstrap,tailwind,firebase,git,github" />
   </a>
 </p>
-
-
-## GitHub Stats <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(3).gif" width="30px" align="center">
 
  > 
 > 📜 14 Public Repositories 
@@ -60,8 +56,6 @@ I am Shivansh, a tech enthusiast and a full stack web developer from India.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-0403&layout=compact&hide=html,scss,shell&hide_border=true&theme=github_dark&utcOffset=8" alt="Pulkit1822" height="200" />
 </p>
 
-
-## Contribution History <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(2).gif" width="30px" align="center">
 <br/>
 <p align="center" style="width:100%;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivansh-0403&theme=dark" width = 90%>
@@ -69,17 +63,12 @@ I am Shivansh, a tech enthusiast and a full stack web developer from India.
 
 ###
 
-## Contact <img src="https://github.com/Pulkit1822/Pulkit1822/blob/main/animated-icons/output-onlinegiftools%20(1).gif" width="30px" align="center">
 <br/>
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-srivastava-291b0022a/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:shivansh.srivastava0403@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/shivansh.sri__0403/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
 </p>
-
-<!--
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
--->
 
 <div align="center">
 	<p>Visitors Count 🥽</p>
