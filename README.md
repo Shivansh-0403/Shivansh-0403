@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 	
 ## Hello Everyone!! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
 <!-- I am Shivansh, a tech enthusiast and a full stack developer from India. -->
-Myself Shivansh Srivastava. I am from Varanaasi, India.
+Myself Shivansh Srivastava. I am from Varanasi, India.
 
 - 🧑🏻‍💻 Aspiring Software Development Engineer
 - ⚡ Love coding and building real-world softwares.
