@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer;1600+rated+on+LeetCode;2+star+rated+on+CodeChef;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Web+Developer;1600+rated+on+LeetCode;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
 </p>
 	
 ## Hello Everyone!! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
 <!-- I am Shivansh, a tech enthusiast and a full stack developer from India. -->
 Myself Shivansh Srivastava. I am from Varanasi, India.
 
-- 🧑🏻‍💻 Aspiring Software Development Engineer
+- 🧑🏻‍💻 Aspiring Software Engineer
 - ⚡ Love coding and building real-world softwares.
 - 🔭 Enjoy solving problems on top competitive programming platforms like LeetCode, Codeforces, CodeChef
 - 🏆 Won DSA Tussle Codeathon organized by Android Club of VIT Bhopal
@@ -42,19 +42,20 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
   </a>
 </p>
 
+<!--
  > 
 > 📜 14 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
 
-
+-->
 <br/>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=vision_friendly_dark"  height="200">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=github_dark&utcOffset=8"  height="200" style="margin-left: 100px;">
   <img src="https://streak-stats.demolab.com?user=Shivansh-0403&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-0403&layout=compact&hide=html,scss,shell&hide_border=true&theme=github_dark&utcOffset=8" alt="Pulkit1822" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-0403&layout=compact&hide=html,scss,shell&hide_border=true&theme=github_dark&utcOffset=8" alt="Pulkit1822" height="200" />
 </p>
 
 <br/>
