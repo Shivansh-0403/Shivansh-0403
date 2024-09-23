@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Web+Developer;1600+rated+on+LeetCode;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gabarito&size=28&duration=2500&pause=800&color=00B119&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer;1600+rated+on+LeetCode;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" /></a>
 </p>
 	
 ## Hello Everyone!! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
