@@ -51,7 +51,7 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
 <br/>
 -->
 
-## GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="center">
+## GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" align="center">
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=vision_friendly_dark" height="200" >
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=github_dark&utcOffset=5.30"  height="200" style="maargin-left: 100px;">
@@ -67,7 +67,7 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
 
 ###
 
-## Reach out to Me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
+## Reach out to Me <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5OTA5NTcsIm5iZiI6MTcyNzk5MDY1NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDIxMjQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5YWY3MDQ4NmYzOWMyMDY0Mjc1OGJkZGQ4ZGQxM2FiNTc5MjMwMjUyOWE5OWRiNDNmZDYzMmJkN2I5NDBlZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dAbKopeoXdfZhwwUuCheLLh8zxkVuiSaB5fOQYtPNpI" width="40px" align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-srivastava-291b0022a/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:shivansh.srivastava0403@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
