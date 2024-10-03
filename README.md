@@ -27,9 +27,9 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
 - 🧑🏻‍💻 Aspiring Software Engineer
 - ⚡ Love coding and building real-world softwares.
 - 🔭 Enjoy solving problems on top competitive programming platforms like LeetCode, Codeforces, CodeChef
-- 🏆 Won DSA Tussle Codeathon organized by Android Club of VIT Bhopal
+- 🏆 Won DSA Tussle Codeathon organized at VIT Bhopal
 - 🧑🏻‍💻 AWS Certified Cloud Practitioner
-- 🌱 I am currently learning about Machine Learning and Data Science
+- 🌱 I am currently learning Next.js and DevOps
   <!-- + a lot more ;) -->
 
 ## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="center">
@@ -38,7 +38,7 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
   </a>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,mongodb,bootstrap,tailwind,firebase,git,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,bootstrap,tailwind,git,github" />
   </a>
 </p>
 
@@ -48,14 +48,16 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
  > 
 > 🔑 1 Private Repositories 
 
--->
 <br/>
+-->
 
+## GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" align="center">
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=vision_friendly_dark"  height="200">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=github_dark&utcOffset=8"  height="200" style="margin-left: 100px;">
-  <img src="https://streak-stats.demolab.com?user=Shivansh-0403&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-0403&layout=compact&hide=html,scss,shell&hide_border=true&theme=github_dark&utcOffset=8" alt="Pulkit1822" height="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=vision_friendly_dark" height="200" >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=github_dark&utcOffset=5.30"  height="200" style="maargin-left: 100px;">
+  <img src="https://streak-stats.demolab.com?user=Shivansh-0403&locale=en&mode=weekly&theme=github_dark&hide_border=false&border_radius=5" height="165" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-0403&layout=compact&&hide_border=true&theme=github_dark&utcOffset=5.30" alt="Shivansh-0403" height="180" />
+<!--   hide=html,scss,shell -->
 </p>
 
 <br/>
@@ -65,13 +67,14 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
 
 ###
 
-<br/>
+## Reach out to Me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/shivansh-srivastava-291b0022a/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:shivansh.srivastava0403@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="43"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/shivansh.sri__0403/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<br />
 <div align="center">
 	<p>Visitors Count 🥽</p>
 	<img src="https://profile-counter.glitch.me/Shivansh-0403/count.svg?" />
