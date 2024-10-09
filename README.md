@@ -54,7 +54,7 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
 ## GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" align="center">
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=aura_dark" height="200" >
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=aura_dark&utcOffset=8"  height="200" style="maargin-left: 100px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=aura_dark&utcOffset=5.30"  height="200" style="maargin-left: 100px;">
   <br />
   <img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=415&card_height=200" alt="streak graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivansh-0403&theme=aura_dark" alt="Shivansh-0403" height="200" />
