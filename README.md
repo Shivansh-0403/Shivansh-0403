@@ -53,14 +53,14 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
 
 ## GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" align="center">
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=blue_green" height="200" >
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=blue_green&utcOffset=5.30"  height="200" style="maargin-left: 100px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=blue_green" height="225" >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=blue_green&utcOffset=5.30"  height="225" style="maargin-left: 100px;">
   <br />
 <!--   <img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=415&card_height=200" alt="streak graph"  /> -->
 <!--   <img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=415&card_height=200" alt="streak graph"  /> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=415&card_height=200" alt="GitHub Streak" /></a> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivansh-0403&theme=blue_green" alt="Shivansh-0403" height="200" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivansh-0403&theme=blue_green" alt="Shivansh-0403" height="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivansh-0403&theme=blue_green" alt="Shivansh-0403" height="225" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivansh-0403&theme=blue_green" alt="Shivansh-0403" height="225" />
 <!-- <br /> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivansh-0403&theme=aura_dark" alt=""/> -->
 <!--   hide=html,scss,shell -->
