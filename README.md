@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- I am Shivansh, a tech enthusiast and a full stack developer from India. -->
 Myself Shivansh Srivastava. I am from Varanasi, India.
 
-- 🧑🏻‍💻 Aspiring Software Engineer
+- 🧑🏻‍💻 Software Engineer at Societe Generale
 - ⚡ Love coding and building real-world softwares.
 - 🔭 Enjoy solving problems on top competitive programming platforms like LeetCode, Codeforces, CodeChef
 - 🏆 Won DSA Tussle Codeathon organized at VIT Bhopal
@@ -38,7 +38,7 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
   </a>
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,bootstrap,tailwind,git,redis,nextjs" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,bootstrap,tailwind,git,spring,nextjs" />
   </a>
 </p>
 
@@ -53,13 +53,14 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
 
 ## GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px" align="center">
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=aura_dark" height="200" >
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=aura_dark&utcOffset=5.30"  height="200" style="maargin-left: 100px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivansh-0403&theme=blue_green" height="200" >
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivansh-0403&theme=blue_green&utcOffset=5.30"  height="200" style="maargin-left: 100px;">
   <br />
 <!--   <img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=415&card_height=200" alt="streak graph"  /> -->
-  <img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=415&card_height=200" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=415&card_height=200" alt="streak graph"  /> -->
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shivansh-0403&theme=aura-dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=415&card_height=200" alt="GitHub Streak" /></a> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivansh-0403&theme=aura_dark" alt="Shivansh-0403" height="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivansh-0403&theme=blue_green" alt="Shivansh-0403" height="200" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivansh-0403&theme=blue_green" alt="Shivansh-0403" height="200" />
 <!-- <br /> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivansh-0403&theme=aura_dark" alt=""/> -->
 <!--   hide=html,scss,shell -->
@@ -81,8 +82,10 @@ Myself Shivansh Srivastava. I am from Varanasi, India.
   <a href="https://www.instagram.com/shivansh.sri__0403/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="Instagram Logo" width="43"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<!--
 <br />
 <div align="center">
 	<p>Visitors Count 🥽</p>
 	<img src="https://profile-counter.glitch.me/Shivansh-0403/count.svg?" />
 </div>
+-->
